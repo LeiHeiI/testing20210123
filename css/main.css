@@ -1,6 +1,8 @@
 body{
         font-family: 'Advent Pro', sans-serif;
-        margin: auto;
+        margin: 0;
+        position: absolute;
+/*         margin: auto; */
         max-width: 900px;
         padding: 1em;
       }
