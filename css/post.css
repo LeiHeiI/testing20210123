@@ -30,15 +30,6 @@ body {
 .cardright,
 .cover,
 .content {
-  padding: 2em;
+  padding: 1em;
   text-align: center;
-}
-
-.w3-content w3-display-container {
-    @import "https://www.w3schools.com/w3css/4/w3.css"; 
-}
-
-.mySlides {
-  display:none;
-  
 }
