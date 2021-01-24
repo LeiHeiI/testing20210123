@@ -3,7 +3,7 @@ module.exports = function(eleventyConfig) {
     return date.toISOString().split('T')[0];
   });
     // Folders to copy into output.
-    eleventyConfig.addPassthroughCopy("images");
+    eleventyConfig.addPassthroughCopy("img");
     eleventyConfig.addPassthroughCopy("css");
 
     // If we use Netlify and has the _redirects file.
