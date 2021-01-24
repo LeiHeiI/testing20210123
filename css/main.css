@@ -6,12 +6,22 @@ body{
         max-width: 900px;
         padding: 1em;
       }
+
 main{
         margin: 0;
         position: absolute;
 /*         top: 25%; */
         left: 35%;
 }
+
+footer{
+        font-family: 'Advent Pro', sans-serif;
+/*         margin: 0;
+        position: absolute; */
+        margin: auto;
+        max-width: 900px;
+        padding: 1em;
+      }
 /*       body{
         margin: auto;
         max-width: 700px;
