@@ -7,35 +7,29 @@ body {
 .row {
   display: flex;
 }
-.column {
-  flex: 1;
+.columnright {
+  flex: 0 0 550px;
 }
 
 .column {
-  padding: 0.5em;
+  padding: 0em;
 }
 
-.card {
+.cardleft {
+  border: 1px solid darkgray;
+  min-height: 100px;
+  background: snow;
+}
+.cardright {
   border: 1px solid darkgray;
   min-height: 100px;
   background: snow;
 }
 
-.card,
+.cardleft,
+.cardright,
 .cover,
 .content {
   padding: 2em;
   text-align: center;
-}
-
-#demo3 .column {
-  padding: 0;
-}
-#demo3 .card {
-  transition: all 0.2s ease-out;
-}
-#demo3 .card:hover {
-  transform: scale(1.05);
-  box-shadow: 0 3px 5px -2px rgba(0,0,0,.3);
-  z-index: 999;
 }
