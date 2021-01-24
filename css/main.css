@@ -14,6 +14,15 @@ main{
         left: 35%;
 }
 
+#demo3 .card {
+  transition: all 0.2s ease-out;
+}
+#demo3 .card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 3px 5px -2px rgba(0,0,0,.3);
+  z-index: 999;
+}
+
 footer{
         font-family: 'Advent Pro', sans-serif;
         margin: 0;
