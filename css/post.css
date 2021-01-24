@@ -34,8 +34,11 @@ body {
   text-align: center;
 }
 
+.w3-content w3-display-container {
+    @import "https://www.w3schools.com/w3css/4/w3.css"; 
+}
+
 .mySlides {
-/*   @import "https://www.w3schools.com/w3css/4/w3.css";  */
   display:none;
   
 }
