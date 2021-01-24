@@ -16,9 +16,10 @@ main{
 
 footer{
         font-family: 'Advent Pro', sans-serif;
-/*         margin: 0;
-        position: absolute; */
-        margin: auto;
+        margin: 0;
+        position: absolute;
+        top: 75%;
+        left: 35%;
         max-width: 900px;
         padding: 1em;
       }
