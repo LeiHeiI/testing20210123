@@ -17,12 +17,12 @@ body {
 
 .cardleft {
   border: 1px solid darkgray;
-  min-height: 100px;
+  min-height: 550px;
   background: snow;
 }
 .cardright {
   border: 1px solid darkgray;
-  min-height: 100px;
+  min-height: 550px;
   background: snow;
 }
 
