@@ -16,12 +16,12 @@ body {
 }
 
 .cardleft {
-  border: 1px solid darkgray;
+  border: 1px transparent;
   min-height: 550px;
   background: snow;
 }
 .cardright {
-  border: 1px solid darkgray;
+  border: 1px transparent;
   min-height: 550px;
   background: snow;
 }
