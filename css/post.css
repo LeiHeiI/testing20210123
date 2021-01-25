@@ -3,7 +3,7 @@ body {
         margin: auto;
         max-width: 900px;
   padding: 1em;
-  background-color: lightcyan;
+  background-color: lemonchiffon;
 }
 .row {
   display: flex;
@@ -19,12 +19,12 @@ body {
 .cardleft {
   border: 1px transparent;
   min-height: 550px;
-  background: snow;
+  background: transparent;
 }
 .cardright {
   border: 1px transparent;
   min-height: 550px;
-  background: snow;
+  background: transparent;
 }
 
 .cardleft,
