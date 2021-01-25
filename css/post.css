@@ -35,3 +35,7 @@ body {
   text-align: center;
   border: 1px transparent;
 }
+
+iframe {
+  border: 1em transparent;
+}
