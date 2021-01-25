@@ -3,6 +3,7 @@ body {
         margin: auto;
         max-width: 900px;
   padding: 1em;
+  background-color: lightcyan;
 }
 .row {
   display: flex;
