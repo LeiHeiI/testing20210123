@@ -4,6 +4,8 @@ body {
         margin: auto;
         max-width: 900px;
   padding: 1em;
+  		text-align:left;
+		font-size: 20px;
   background-color: lemonchiffon;
 }
 .row {
