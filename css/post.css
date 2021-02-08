@@ -20,7 +20,7 @@ body {
 .cardleft {
   border: 1px transparent;
   min-height: 500px;
-  min-width: 450px;
+  min-width: 300px;
   background: transparent;
 }
 .cardright {
