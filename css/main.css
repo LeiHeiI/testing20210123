@@ -46,3 +46,23 @@ footer{
         max-width: 700px;
         padding: 1em;
       } */
+
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: darkseagreen;
+}
