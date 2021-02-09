@@ -4,7 +4,7 @@ body{
 /*         margin: 0;
         position: absolute; */
         margin: auto;
-/*       max-width: 1200px;*/
+        max-width: 1200px;
         padding: 1em;
         border: 20px solid darkseagreen;
       }
@@ -14,11 +14,11 @@ main{
 		padding-left: 8em;
 		padding-right: 8em;
         margin: auto;
-		max-width:1200px;
+		max-width:900px;
 		text-align:left;
 		font-size: 20px;
-/*       position: absolute;*/
- /*       left: 35%; */
+      position: absolute;
+       left: 35%; 
 		background-color: #E8E8E8;
 }
 
