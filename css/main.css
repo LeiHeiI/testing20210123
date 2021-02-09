@@ -1,3 +1,8 @@
+html {
+			border-color: darkseagreen;
+		border-width: 5px;
+}
+
 body{
 /*  font-family: 'Advent Pro', sans-serif; */
   font-family: 'Bodoni Moda', serif;
@@ -5,17 +10,19 @@ body{
         position: absolute; */
         margin: auto;
         max-width: 900px;
-        padding: 1em;
-		background-color: lightgoldenrodyellow;
+        padding: 5em;
+		background-color: transparent;
       }
 
 main{
+	    padding: 5em;
         margin: 0;
 		text-align:left;
 		font-size: 20px;
         position: absolute;
 /*         top: 25%; */
         left: 35%;
+		background-color: #E8E8E8;
 }
 
 #demo3 .card {
@@ -47,8 +54,13 @@ footer{
         padding: 1em;
       } */
 
+a {
+  padding-left: 10px;
+}
+
 a:link {
   color: black;
+  text-decoration: none;
 }
 
 /* visited link */
@@ -58,7 +70,6 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: black;
   text-decoration: underline;
 }
 
