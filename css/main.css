@@ -27,6 +27,10 @@ main{
   z-index: 999;
 }
 
+nav{
+	font-size: 30%;
+}
+
 footer{
         font-family: 'Advent Pro', sans-serif;
         margin: 0;
