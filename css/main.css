@@ -1,18 +1,15 @@
 body{
 /*  font-family: 'Advent Pro', sans-serif; */
   font-family: 'Bodoni Moda', serif;
-/*         margin: 0;
-        position: absolute; */
         margin: auto;
       /*  max-width: 1200px; */
         padding: 1em;
-        border: 20px solid darkseagreen;
       }
 
 main{
-	    padding-top: 5em;
-		padding-left: 8em;
-		padding-right: 8em;
+	    padding-top: 3em;
+		padding-left: 10em;
+		padding-right: 10em;
         margin: 0;
 		max-width:900px;
 		text-align:left;
@@ -58,7 +55,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: black;
+  color: darkseagreen;
 }
 
 /* mouse over link */
@@ -70,3 +67,21 @@ a:hover {
 a:active {
   color: darkseagreen;
 }
+
+#top, #bottom, #left, #right {
+	background: darkseagreen;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 20px;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+		
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 20px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
