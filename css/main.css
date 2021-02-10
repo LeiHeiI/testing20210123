@@ -8,8 +8,8 @@ body{
 
 main{
 	    padding-top: 3em;
-		padding-left: 20em;
-		padding-right: 20em;
+		padding-left: 10em;
+		padding-right: 10em;
         margin: 1em;
 		max-width:900px;
 		text-align:left;
@@ -71,6 +71,7 @@ a:active {
 #top, #left, #right {
 	background: darkseagreen;
 	position: fixed;
+	z-index:1;
 	}
 	#left, #right {
 		top: 0; bottom: 0;
