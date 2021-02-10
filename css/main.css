@@ -10,12 +10,12 @@ main{
 	    padding-top: 3em;
 		padding-left: 10em;
 		padding-right: 10em;
-        margin: 1em;
+        margin-left: 4em;
 		max-width:900px;
 		text-align:left;
 		font-size: 20px;
-    position: absolute;
-       left: 6%; 
+/*     position: relative;
+       left: 6%;  */
 		background-color: #E8E8E8;
 }
 
@@ -71,7 +71,7 @@ a:active {
 #top, #left, #right {
 	background: darkseagreen;
 	position: fixed;
-	z-index:1;
+  z-index:1;
 	}
 	#left, #right {
 		top: 0; bottom: 0;
