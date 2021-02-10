@@ -14,7 +14,8 @@ body{
   font-family: 'Bodoni Moda', serif;
         margin: auto;
       /*  max-width: 1200px; */
-        padding: 2em;
+        padding: 5em;
+  padding-top: 3em;
       }
 
 main{
