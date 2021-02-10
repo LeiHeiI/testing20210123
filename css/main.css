@@ -4,7 +4,8 @@ ul {
   display: flex;
 }
 li {
-  border: 5px solid white;
+  border-left: 5px solid white;
+  border-right: 5px solid white;
   background: #E8E8E8;
   flex: 1;
 /*   white-space: nowrap; */
