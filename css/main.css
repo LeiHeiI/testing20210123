@@ -1,3 +1,14 @@
+ul {
+  list-style: none;
+  padding: 0em;
+  display: flex;
+}
+li {
+  border: 5px solid white;
+  background: #E8E8E8;
+  flex: 1;
+/*   white-space: nowrap; */
+}
 body{
 /*  font-family: 'Advent Pro', sans-serif; */
   font-family: 'Bodoni Moda', serif;
@@ -7,16 +18,15 @@ body{
       }
 
 main{
-	    padding-top: 3em;
-		padding-left: 10em;
-		padding-right: 10em;
+	    padding-top: 0em;
+		padding-left: 0;
+		padding-right: 0;
         margin-left: 4em;
-		max-width:900px;
+  margin-right:4em;
 		text-align:left;
 		font-size: 20px;
 /*     position: relative;
        left: 6%;  */
-		background-color: #E8E8E8;
 }
 
 #demo3 .card {
@@ -86,9 +96,3 @@ a:active {
 		}
 		#top { top: 0; }
 		#bottom { bottom: 0; }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
