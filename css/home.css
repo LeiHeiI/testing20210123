@@ -127,6 +127,8 @@ $size: 6;
 }
  body {
 	 margin: 5px;
+   padding-top: 3em;
+   padding: 5em;
 	 position: relative;
 }
  #gallery {
