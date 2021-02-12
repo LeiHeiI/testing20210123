@@ -2,9 +2,12 @@ body{
 /*  font-family: 'Advent Pro', sans-serif; */
   font-family: 'Bodoni Moda', serif;
         margin: auto;
-      /*  max-width: 1200px; */
+        max-width: 1200px; 
         padding: 5em;
   padding-top: 3em;
+  margin-left: auto;
+  margin-right: auto;
+  
       }
 	  
 .row {
@@ -49,14 +52,14 @@ a {
 }
 
 a:link {
-  color: black;
+  color: darkseagreen;
   text-decoration: none;
 }
 
-/* visited link */
+/* visited link 
 a:visited {
   color: darkseagreen;
-}
+}*/
 
 /* mouse over link */
 a:hover {
