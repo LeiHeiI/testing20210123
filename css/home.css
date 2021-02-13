@@ -63,14 +63,16 @@ a:active {
 body{
   background: #f9f9f9;
   font-size: 16px;
-  font-family: 'Raleway', sans-serif;
+  /*font-family: 'Raleway', sans-serif;*/
+  max-width: 900px;
 }
 
 
 .container{
-  padding: 1em 0;
+  padding: 0;
   float: left;
   width: 50%;
+
 }
 @media screen and (max-width: 640px){
   .container{
@@ -102,7 +104,7 @@ body{
 .content .content-overlay {
   background: rgba(0,0,0,0.7);
   position: absolute;
-  height: 99%;
+  height: 100%;
   width: 100%;
   left: 0;
   top: 0;
@@ -161,3 +163,4 @@ body{
 .fadeIn-bottom{
   top: 80%;
 }
+
