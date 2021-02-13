@@ -1,3 +1,16 @@
+ul {
+  list-style: none;
+  padding: 0em;
+  display: flex;
+}
+li {
+  border-left: 5px solid white;
+  border-right: 5px solid white;
+  background: #E8E8E8;
+  flex: 1;
+/*   white-space: nowrap; */
+}
+
 body{
 /*  font-family: 'Advent Pro', sans-serif; */
   font-family: 'Bodoni Moda', serif;
