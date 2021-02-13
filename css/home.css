@@ -1,8 +1,9 @@
 introduction{
 	display: block;
 	background: lightyellow;
-	padding-top: 0.5em;
-	padding: 1em;
+	padding-top: 0.3em;
+	padding-left: 5em;
+	padding-right: 5em;
 	margin: 0.5em;
 	color: black;
 }
