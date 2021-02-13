@@ -1,8 +1,8 @@
 introduction{
 	display: block;
-	background: darkseagreen;
+	background: lightyellow;
 	padding: 1em;
-	
+	color: black;
 }
 ul {
   list-style: none;
