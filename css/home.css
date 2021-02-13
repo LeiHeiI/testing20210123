@@ -7,7 +7,7 @@ body{
   padding-top: 3em;
   background: white;
  /* font-size: 16px;*/
-  max-width: 1000px;
+  max-width: 1200px;
       }
 	  
 a {
@@ -53,11 +53,6 @@ a:active {
 		#top { top: 0; }
 		#bottom { bottom: 0; }
 		
-
-
-
-
-
  body .container {
 /* 	 top: 50%;
 	 left: 50%;
