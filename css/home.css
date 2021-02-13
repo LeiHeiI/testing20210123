@@ -53,13 +53,13 @@ a:active {
 		#top { top: 0; }
 		#bottom { bottom: 0; }
 		
-/* body .container {
+ body .container {
  	/* top: 50%;
 	 left: 50%;
-	 transform: translate(-50%, -50%); 
+	 transform: translate(-50%, -50%); */
 	 width: 1200px;
 	 height: 1200px;
-}*/
+}
 
 /* relevant styles */
 .img__wrap {
@@ -74,7 +74,7 @@ a:active {
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 0.5em;
+  left: 1.5em;
   right: 0;
   background: rgba(29, 106, 154, 0.72);
   color: #fff;
