@@ -122,3 +122,42 @@ img {
   opacity: 1;
 }
 
+  
+.row {
+  display: flex;
+}
+.columnright {
+  flex: 0 0 550px;
+}
+
+.column {
+  padding: 0em;
+}
+
+.cardleft {
+  border: 1px transparent;
+  min-height: 500px;
+  min-width: 300px;
+  background: transparent;
+}
+.cardright {
+  border: 1px transparent;
+  min-height: 500px;
+  background: transparent;
+}
+
+.cardleft,
+.cardright,
+.cover,
+.content {
+  padding: 2em;
+  text-align: left;
+  font-size: 15px;
+  border: 1px transparent;
+}
+
+iframe {
+  border: 1em transparent;
+}
+
+
