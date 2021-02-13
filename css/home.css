@@ -64,7 +64,7 @@ a:active {
 /* relevant styles */
 .img__wrap {
   position: relative;
-  margin: 5em;
+  margin: 2em;
   padding: 0;
   height: 300px;
   width: 300px;
@@ -80,6 +80,8 @@ a:active {
   color: #fff;
   visibility: hidden;
   opacity: 0;
+  padding-top: auto;
+  padding-bottom: auto;
   text-align: center;
 
   /* transition effect. not necessary */
