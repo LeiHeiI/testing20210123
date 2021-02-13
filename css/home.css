@@ -146,7 +146,7 @@ img {
 .cardleft {
   border: 1px transparent;
   min-height: 200px;
-  min-width: 3px;
+  min-width: 450px;
   background: transparent;
 }
 .cardright {
