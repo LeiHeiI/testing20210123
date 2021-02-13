@@ -150,14 +150,10 @@ img {
 .cardright,
 .cover,
 .content {
-  padding: 2em;
+  padding: 0em;
   text-align: left;
   font-size: 15px;
   border: 1px transparent;
-}
-
-iframe {
-  border: 1em transparent;
 }
 
 
