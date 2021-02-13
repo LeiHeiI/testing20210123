@@ -1,5 +1,6 @@
 introduction{
-	border: 10px solid darkseagreen;
+	display: block;
+	background: darkseagreen;
 	
 }
 ul {
