@@ -50,23 +50,24 @@ a {
 }
 
 a:link {
-  color: black;
+  color: mediumseagreen;
   text-decoration: underline;
 }
 
 /* visited link */
 a:visited {
-  color: darkseagreen;
+  color: mediumseagreen;
 }
 
 /* mouse over link */
 a:hover {
+  color: lightgreen;
   text-decoration: underline;
 }
 
 /* selected link */
 a:active {
-  color: darkseagreen;
+  color: mediumseagreen;
 }
 
 #top, #left, #right {
