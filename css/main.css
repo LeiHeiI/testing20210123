@@ -10,6 +10,26 @@ li {
   flex: 1;
 /*   white-space: nowrap; */
 }
+.divider
+{
+	position: relative;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	height: 1px;
+}
+
+.div-transparent:before
+{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 1%;
+	right: 1%;
+	width: 95%;
+	height: 1.5px;
+	background-image: linear-gradient(to right, transparent, rgb(48,49,51), transparent);
+}
+
 body{
 /*  font-family: 'Advent Pro', sans-serif; */
   font-family: 'Bodoni Moda', serif;
