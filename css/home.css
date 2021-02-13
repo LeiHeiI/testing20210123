@@ -1,6 +1,7 @@
 ul {
   list-style: none;
   padding: 0em;
+  margin: 0em;
   display: flex;
 }
 li {
@@ -109,6 +110,8 @@ img {
   visibility: hidden;
   opacity: 0;
   text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
 
   /* transition effect. not necessary */
   transition: opacity .2s, visibility .2s;
